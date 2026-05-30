@@ -1,0 +1,357 @@
+header {
+    background-color: red;
+    font-size: 200%;
+    width: 25%;
+    color: white;
+}
+
+main {
+    font-size: 150%;
+    text-align: center;
+    margin-top: 70px;
+    background-color: red;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.fff {
+    height: 235px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    background-color:red;
+}
+
+.rar {
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    border: 3px solid red;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+     float:left;
+      margin-top: 10px;
+      display:block;
+      justify-content: baseline;
+}
+
+.rir {
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    border: 3px solid red;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    float:left;
+    margin-bottom: 5px;
+    display:block;
+      justify-content: baseline;
+}
+footer{
+    color:white;
+    width:100%;
+    height:15%;
+    background-color: black;
+    font-size:20px;
+    float:left;
+}
+footer p{
+    background-color: red;
+    padding: 5px;
+}
+.ir{
+  display: flex;
+  justify-content: start;
+  gap: 20px;
+}
+.ar {
+    background-color:white;
+    color: black;
+}
+.ur {
+    background-color: red;
+    color:white;
+}
+.aiai {
+    margin: 5%;
+    margin-top:30px;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    min-height: 5px;
+    font-size:25px;
+}
+
+.img{
+    height:100px;
+    width:100px;
+    margin-left:5%;
+    padding:10px;
+}
+.iaia {
+    margin-left:22%; 
+    margin-top:-102px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px;
+}
+
+
+
+.igm {
+    height: 100px;
+    width: 100px;
+margin-left:9%;
+padding:11px;
+}
+.gmi{
+    height: 100px;
+    width: 100px;
+margin-left:6%;
+padding:11px; 
+}
+.rari {
+    margin-left:44%; 
+    margin-top:-29px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px;
+}
+.ing{
+      height: 100px;
+    width: 100px;
+margin-left:10%;
+padding:11px; 
+}
+.rira{
+        margin-left:61%; 
+    margin-top:-29px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px;
+}
+.gim{
+    height: 100px;
+    width: 100px;
+margin-left:14%;
+padding:11px; 
+}
+.fifa{
+margin-left:82%; 
+    margin-top:-29px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px;    
+}
+.img:hover{
+    transform:scale(1.5);
+    box-shadow: 0 0 10px 5px black;
+width:125px;
+transition:all 1s ease-out;
+}
+.aiai:hover{
+    transform:scale(1.5);
+width:150px;
+font-size:25px;
+    box-shadow: 0 0 10px 5px black;
+transition:all 1s ease-out;
+}
+.igm:hover{
+    transform:scale(1.5);
+    box-shadow: 0 0 10px 5px black;
+width:125px;
+transition:all 1s ease-out;
+}
+.iaia:hover{
+    transform:scale(1.5);
+width:150px;
+font-size:25px;
+    box-shadow: 0 0 10px 5px black;
+transition:all 1s ease-out;
+}
+.gim:hover{
+    transform:scale(1.5);
+    box-shadow: 0 0 10px 5px black;
+width:125px;
+transition:all 1s ease-out;
+}
+.rari:hover{
+    transform:scale(1.5);
+width:150px;
+font-size:25px;
+    box-shadow: 0 0 10px 5px black;
+transition:all 1s ease-out;
+}
+.ing:hover{
+    transform:scale(1.5);
+    box-shadow: 0 0 10px 5px black;
+width:125px;
+transition:all 1s ease-out;
+}
+.rira:hover{
+    transform:scale(1.5);
+width:150px;
+font-size:25px;
+    box-shadow: 0 0 10px 5px black;
+transition:all 1s ease-out;
+}
+.fifa:hover{
+    transform:scale(1.5);
+width:150px;
+font-size:25px;
+    box-shadow: 0 0 10px 5px black;
+transition:all 1s ease-out;
+}
+.ririri{
+    width:30px;
+    height:25px;
+    margin-bottom:15px;
+}
+.ps{
+    font-size:15px;
+    margin:10px;
+    height:60px;
+    width:100%;
+}
+.bluw{
+    background-color:Black;
+    margin-top:115px;
+    height:50px;
+    font-size:50px;
+    text-align:left;
+    background-position: right center;
+    width:45%;
+}
+.igri{
+    color:white;
+ height: 235px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    background-color:red;
+}
+.igra{
+    height:100px;
+    width:170px;
+    margin-left:5%;
+    padding:10px;
+}
+.irga{
+    height:100px;
+    width:170px;
+    margin-left:5%;
+    padding:10px;
+}
+.argi{
+    height:100px;
+    width:130px;
+    margin-left:5%;
+    padding:10px;
+}
+.igar{
+   height:100px;
+    width:130px;
+    margin-left:5%;
+    padding:10px; 
+}
+.gari{
+    height:100px;
+    width:130px;
+    margin-left:5%;
+    padding:10px; 
+}
+.igro{
+   height:100px;
+    width:130px;
+    margin-left:5%;
+    padding:10px;   
+}
+.textigra{
+     margin: 5%;
+    margin-top:15px;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    min-height: 5px;
+    font-size:25px;
+}
+.textirga{
+    margin-left:26%; 
+    margin-top:-102px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px;
+}
+.textargi{
+    margin-left:41%; 
+    margin-top:-45px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 22px;
+}
+.textigar{
+  margin-left:57%; 
+    margin-top:-55px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px;  
+}
+.textgari{
+          margin-left:72%; 
+    margin-top:-50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px; 
+}
+.textigro{
+    margin-left:86%; 
+    margin-top:-34px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 10px;
+    font-size: 25px; 
+}
+
+.textigra:hover{
+    transform:scale(1.5);
+width:150px;
+font-size:15px;
+    box-shadow: 0 0 10px 5px black;
+transition:all 1s ease-out;
+}
+
+.igra:hover{
+    transform:scale(1.5);
+width:150px;
+font-size:25px;
+    box-shadow: 0 0 10px 5px black;
+transition:all 1s ease-out;
+}
+
+h1{
+    color:white;
+    text-align: center;
+}
